@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_ga9a1bf763974809bcb69076a6d5d2e8": {
+        "id": "AS_FlexContainer_ga9a1bf763974809bcb69076a6d5d2e8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "e91eeea79b054d9eb401c6c018debd9b",
+            "name": "frmMap",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e31d5e56a6e94d509d6852437508783b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.flexRangePopup.isVisible = false;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

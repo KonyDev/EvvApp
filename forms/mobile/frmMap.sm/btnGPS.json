@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2c3fc92ba7b4477b815110c47f29d9f",
+    "_text_": "Start GPS",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s2c3fc92ba7b4477b815110c47f29d9f",
+    "id": "btnGPS",
+    "ide_onClick": "AS_Button_h02635e6e35648a0a6b1d9f5a3cf0aa4",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "abea91c3678b434e9cc9dd2bedc075f2",
+    "name": "kony.ui.Button",
+    "parent": "frmMap",
+    "pf": "frmMap",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

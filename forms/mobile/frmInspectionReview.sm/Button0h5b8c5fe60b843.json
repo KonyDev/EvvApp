@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "38dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "73dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sffd5b74b1a34606b62452a43246d590",
+    "_text_": "Move Away",
+    "_top_": {
+        "type": "string",
+        "value": "8dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "98dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s573e754488d401d9732f889748de945"
+    },
+    "displaytext": true,
+    "id": "Button0h5b8c5fe60b843",
+    "ide_onClick": "AS_Button_jaadce7019584d41bfa8070dce9cd601",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "d9cff3cc9b3b4012b608e9252488b216",
+    "name": "kony.ui.Button",
+    "parent": "flxHeader",
+    "pf": "frmInspectionReview",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 50
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Button_cbaaa9937d094b1798b6510da2bcdb8e": {
+        "id": "AS_Button_cbaaa9937d094b1798b6510da2bcdb8e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMap",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e91eeea79b054d9eb401c6c018debd9b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b20d41a5909e43f1a0e8aa1b1cee47a7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.forcedCheckIn = false;\nthis._navigateToExecution();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

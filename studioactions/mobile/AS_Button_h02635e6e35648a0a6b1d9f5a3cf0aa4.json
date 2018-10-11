@@ -1,0 +1,24 @@
+{
+    "AS_Button_h02635e6e35648a0a6b1d9f5a3cf0aa4": {
+        "id": "AS_Button_h02635e6e35648a0a6b1d9f5a3cf0aa4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "e91eeea79b054d9eb401c6c018debd9b",
+            "name": "frmMap",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__jb1814aea9604cee916ee362231ed004",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.GPSHandler();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

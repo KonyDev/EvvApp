@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbe35a60e21148cc8390c82d0134c4d7",
+    "_text_": "\n<label style = \"color:#000000\">You are opting for Forced Check-In. This will be reported as non-EVV complaint visit. Click on \"I Agree\" to proceed.</label>",
+    "_top_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 1,
+    "id": "rtxtNotify",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b053941b1ea04ecf9f23eb5bdc33c5ec",
+    "linkskin": "s923a561f7804e8facb9349f420fd3e8",
+    "name": "kony.ui.RichText",
+    "parent": "flxPop",
+    "pf": "frmMap",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

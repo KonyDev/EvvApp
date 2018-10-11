@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0ab1fdcd85142889baf7054a931b84f",
+    "_text_": "Proceed anyways",
+    "_top_": {
+        "type": "string",
+        "value": "200dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s0ab1fdcd85142889baf7054a931b84f",
+    "id": "CopybtnAgree0bd7b4f4de12d45",
+    "ide_onClick": "AS_Button_d94f1253aa1443b8b65b2eb57907d6ad",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d722f617b5274a63b1d6e84212cb3b98",
+    "name": "kony.ui.Button",
+    "parent": "CopyflxPop0a782daace21246",
+    "pf": "frmMap",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

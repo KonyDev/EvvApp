@@ -1,0 +1,24 @@
+{
+    "AS_UWI_hc89b73f6c2e423381c66b685bbec4ef": {
+        "id": "AS_UWI_hc89b73f6c2e423381c66b685bbec4ef",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmInspectionReview",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a01ea68ec5a940a7b048f92adf734c53"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c1f61c4e81d647c8be4be1071aec8734",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.forcedExecution.isVisible = false;\nthis.view.navigatepopup.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

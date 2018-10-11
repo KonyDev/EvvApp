@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0ab1fdcd85142889baf7054a931b84f",
+    "_text_": "Navigate",
+    "_top_": {
+        "type": "string",
+        "value": "200dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s0ab1fdcd85142889baf7054a931b84f",
+    "id": "CopybtnAgree0g1964cd2b63b43",
+    "ide_onClick": "AS_Button_dadcfe99bbaf43dcb3015563d88d5748",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e912dc2aa45146008f00c26169e9e87c",
+    "name": "kony.ui.Button",
+    "parent": "CopyflxPop0a782daace21246",
+    "pf": "frmMap",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

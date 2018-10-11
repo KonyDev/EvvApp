@@ -1,0 +1,24 @@
+{
+    "AS_UWI_ef4d32a86d1346f496030d19559a1b58": {
+        "id": "AS_UWI_ef4d32a86d1346f496030d19559a1b58",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmInspectionExecution",
+            "type": "forms",
+            "platform": "",
+            "KUID": "be2c01e24ee846a58f7b082e3f7f1a99"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__h3a0d317eac74662b897d117b930ad54",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.lblcheckinAddress = \"\";\nthis.view.lblcheckinAddress.isVisible = false;\nthis.forceCheckin = true;\nthis.view.forcedExecution.hide();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

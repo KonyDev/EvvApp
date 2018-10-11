@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        6,
+        0,
+        6,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "4.44%"
+    },
+    "_skin_": "sd42937ed17e4a3e967100774c6d950e",
+    "_text_": "Check In",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s17ad6000cc2486e89bd6161f190c2eb",
+    "id": "btnCheckIn",
+    "ide_onClick": "AS_Button_cbaaa9937d094b1798b6510da2bcdb8e",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "j52c3440eed4458889adb291a80798ec",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "flexBottom",
+    "pf": "frmMap",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

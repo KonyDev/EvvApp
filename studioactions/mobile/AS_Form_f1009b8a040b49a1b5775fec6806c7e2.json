@@ -1,0 +1,24 @@
+{
+    "AS_Form_f1009b8a040b49a1b5775fec6806c7e2": {
+        "id": "AS_Form_f1009b8a040b49a1b5775fec6806c7e2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "KUID": "e91eeea79b054d9eb401c6c018debd9b",
+            "name": "frmMap",
+            "platform": "",
+            "type": "forms"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d081b8ea466a4a79ac45bc66c3c25218",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//frmLoginView = this.view;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

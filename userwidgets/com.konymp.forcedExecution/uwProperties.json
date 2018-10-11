@@ -1,0 +1,93 @@
+{
+    "classname": "forcedExecution",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "d9f34cb69a434d438301f5e371a5c85d",
+                    "paramList": [],
+                    "propertyKey": "show",
+                    "pw": {
+                        "displayName": "show",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "e5ea169431cf47edb1f7d02dc624e8d9",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "b7e29b779f5a45989e01ab5d1c608129",
+                    "paramList": [],
+                    "propertyKey": "hide",
+                    "pw": {
+                        "displayName": "hide",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "e5ea169431cf47edb1f7d02dc624e8d9",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "j1ba85045dec4a589ba3c207e7b995cb",
+                    "originalPropertyKey": "onClick",
+                    "propertyIndex": 1,
+                    "propertyKey": "onClickAgree",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "action",
+                        "displayName": "onClickAgree",
+                        "srcWidget": "FlexContainer0eb3daff335364a",
+                        "type": "action",
+                        "uiRepresentation": "Label-Label-Button-Button",
+                        "wType": "FlexContainer"
+                    },
+                    "srcWgtKUID": "b2ff20a510ec45e9a2694a9f014e2c7c"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "a2550db29c8d4a31b744391cc292e79c",
+                    "originalPropertyKey": "onClick",
+                    "propertyIndex": 2,
+                    "propertyKey": "onClickClose",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "action",
+                        "displayName": "onClickClose",
+                        "srcWidget": "FlexContainer0d4e82a745d7a4a",
+                        "type": "action",
+                        "uiRepresentation": "Label-Label-Button-Button",
+                        "wType": "FlexContainer"
+                    },
+                    "srcWgtKUID": "dd8a494d4f4e475a8f7d0a9de7c0d919"
+                }
+            ]
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.konymp",
+    "version": "1.0.0"
+}
